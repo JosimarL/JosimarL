@@ -68,9 +68,3 @@ As tecnologias que utilizo são essenciais para aumentar minha produtividade, fa
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
----
-
-### 🐍 GitHub Snake Animation
-
-![snake gif](https://github.com/JosimarL/JosimarL/blob/output/github-contribution-grid-snake.svg)
